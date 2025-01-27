@@ -8,7 +8,7 @@ This repository contains the source code for **codex**, an AI-powered web applic
 
 codex is designed to be a versatile tool for developers seeking real-time assistance with coding tasks.
 
-![Opera Instantané_2025-01-14_190017_localhost](https://github.com/user-attachments/assets/a2d685e4-e2b5-4647-9f57-354f9c746cbc)
+![Image](https://github.com/user-attachments/assets/f63fb685-acb6-458e-90f6-65eb09a3f756)
 
 ---
 
